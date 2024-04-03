@@ -23,10 +23,11 @@ include_once("/var/www/_templates/config/public/config-medicare.php");
 <body>
     <a href="https://cdn.sppoints.xyz/click" class="hidden" id="rtRef"></a>
     <div class="bg-red-700 mx-auto text-center py-2">
-        <h1 class="text-xl text-white font-bold mx-4 sm:mx-0">
-            Breaking: Millions of Seniors On Medicare Are Upgrading Their Plans To Claim A $2,500 Spending Card!
-        </h1>
-    </div>
+    <h1 class="text-xl text-white mx-4 sm:mx-0">
+        Seniors On Medicare Can Get Hundreds In Savings. <span class="font-bold">Tap Below To Qualify!</span>
+    </h1>
+</div>
+
     <div id="mainContainer" class="mx-auto md:pt-4 pt-1 px-4 md:px-0 max-w-5xl text-center container">
         <h1 class="font-black text-center break-normal text-2xl md:text-3xl mx-auto my-4 px-2">
             See If You Qualify Below! </h1>
